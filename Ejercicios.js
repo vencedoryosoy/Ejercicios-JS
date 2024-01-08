@@ -1,0 +1,1 @@
+let edadHector = 25
